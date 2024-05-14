@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "From:Nguyễn Đức Toàn" //Lời mở đầu cho bức thư
-const mainContentLetter = "Chúc anh một ngày sinh nhật tràn đầy niềm vui, hạnh phúc và ấm áp. Hy vọng rằng anh sẽ luôn bước đi trên con đường của mình với đầy tự tin và niềm tin vào bản thân, vượt qua mọi thách thức và khó khăn để đạt được những mục tiêu lớn lao trong cuộc sống.Chúc anh mau có vợ và cho bố mẹ 1 đứa cháu để bế:)).Em chúc anh sinh nhật vui vẻ và ý nghĩa nhất!" //Nội dung của bức thư
+const mainContentLetter = "Chúc anh một ngày sinh nhật tràn đầy niềm vui, hạnh phúc và ấm áp. Hy vọng rằng anh sẽ luôn bước đi trên con đường của mình với đầy tự tin và niềm tin vào bản thân, vượt qua mọi thách thức và khó khăn để đạt được những mục tiêu lớn lao trong cuộc sống.Em chúc anh sinh nhật vui vẻ và ý nghĩa nhất!" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
